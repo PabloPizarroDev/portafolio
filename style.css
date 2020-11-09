@@ -188,7 +188,7 @@ h3:hover span {
 
 .home {
   display: flex;
-  background: url("/images/fondo.png") no-repeat center;
+  background: url("/images/fondo.jpg") no-repeat center;
   height: 100vh;
   color: #fff;
   min-height: 500px;
