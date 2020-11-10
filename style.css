@@ -397,7 +397,7 @@ h3:hover span {
 }
 
 .contact .title::after {
-  content: "Ponerse en Contacto";
+  content: "Contacto";
 }
 .contact .contact-content .column {
   width: calc(50% - 30px);
